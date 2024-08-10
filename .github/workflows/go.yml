@@ -3,7 +3,7 @@ name: Go
 on:
   create:
     tags:
-      - my4*
+      - vmy4*
 env:
   dest: bin
   # update to match version
