@@ -7,7 +7,7 @@ on:
 env:
   dest: bin
   # update to match version
-  ENGINE_REF: my4.15.2
+  ENGINE_REF: my-4.15.2
 
 
 jobs:
