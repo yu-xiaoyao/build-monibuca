@@ -100,3 +100,6 @@ require (
 	m7s.live/plugin/ps/v4 v4.1.5 // indirect
 
 )
+replace (
+	m7s.live/engine/v4 => ./monibuca_xy/monibuca-engine
+)
